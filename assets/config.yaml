@@ -31,7 +31,7 @@ LINKS:
         code: 308
   - brand: kick
     icon: kick
-    name: kICK
+    name: Kick
     link: /kick
     redirects:
       - src: /kick
@@ -47,4 +47,5 @@ LINKS:
         code: 308
       - src: /tk
         dest: https://www.tiktok.com/@ej4ql8rgaming
+
         code: 308
