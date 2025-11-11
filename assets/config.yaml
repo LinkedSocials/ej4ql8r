@@ -13,6 +13,14 @@ BIO:
 BASE_SHORT_URL: ""
 ENABLE_REDIRECTS: true
 LINKS:
+  - brand: discord
+    icon: discord
+    name: Discord
+    link: /discord
+    redirects:
+      - src: /discord
+        dest: https://discord.gg/7M47wRWfu
+        code: 308
   - brand: twitch
     icon: twitch
     name: Twitch
@@ -28,4 +36,15 @@ LINKS:
     redirects:
       - src: /kick
         dest: https://www.kick.com/ej4ql8r
+        code: 308
+  - brand: tiktok
+    icon: tiktok
+    name: TitKok
+    link: /tiktok
+    redirects:
+      - src: /tiktok
+        dest: https://www.tiktok.com/@ej4ql8rgaming
+        code: 308
+      - src: /tk
+        dest: https://www.tiktok.com/@ej4ql8rgaming
         code: 308
