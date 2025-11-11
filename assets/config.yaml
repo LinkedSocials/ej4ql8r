@@ -1,23 +1,31 @@
 DOWNLOAD_TAG_VER: v2.5.0
 META:
-  TITLE: Example Title
-  AUTHOR: Example Author
-  DESCRIPTION: Example Description
+  TITLE: ej4ql8r
+  AUTHOR: ej4ql8r
+  DESCRIPTION: Mowfows Beware! Good times ahead! Just a noob lost in the sauce.
   ICON_URL: favicon.png
   THEME: dark
 BIO:
   ICON_URL: icon.png
-  TITLE: Example Title
-  DESCRIPTION: Example Description
-  FOOTER: Example Footer
+  TITLE: ej4ql8r
+  DESCRIPTION: Mowfows Beware! Good times ahead! Just a noob lost in the sauce.
+  FOOTER: You got GOT by a noob!
 BASE_SHORT_URL: ""
 ENABLE_REDIRECTS: true
 LINKS:
-  - brand: github
-    icon: github
-    name: GitHub
-    link: /github
+  - brand: twitch
+    icon: twitch
+    name: Twitch
+    link: /tv
     redirects:
-      - src: /github
-        dest: https://github.com/xstar97
+      - src: /tv
+        dest: https://www.twitch.tv/ej4ql8r
+        code: 308
+  - brand: kick
+    icon: kick
+    name: kICK
+    link: /kick
+    redirects:
+      - src: /kick
+        dest: https://www.kick.com/ej4ql8r
         code: 308
