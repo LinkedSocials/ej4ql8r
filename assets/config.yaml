@@ -39,7 +39,7 @@ LINKS:
         code: 308
   - brand: tiktok
     icon: tiktok
-    name: TitKok
+    name: TikTok
     link: /tiktok
     redirects:
       - src: /tiktok
@@ -49,3 +49,4 @@ LINKS:
         dest: https://www.tiktok.com/@ej4ql8rgaming
 
         code: 308
+
